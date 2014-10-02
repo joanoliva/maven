@@ -1,0 +1,1 @@
+$wnd.example_vaadin_mavenVaadinExample_AppWidgetSet.runAsyncCallback1('p8(1323,1,Snd);_.oc=function B$b(){VPb((!QPb&&(QPb=new WPb),QPb),this.b.e)};bcd(Vh)(1);\n//# sourceURL=example.vaadin.mavenVaadinExample.AppWidgetSet-1.js\n')
